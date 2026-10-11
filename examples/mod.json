@@ -1,0 +1,8 @@
+{
+    "geode": "4.0.0",
+    "id": "andre.gdteleport",
+    "name": "Platformer Teleport",
+    "version": "1.0.0",
+    "developer": "andre",
+    "description": "Teleport to room 742 by pressing K key"
+}
